@@ -1,0 +1,20 @@
+.avatar {
+  width: 3rem;
+  height: 3rem;
+  flex-shrink: 0;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: #0d6efd;
+  color: #fff;
+  font-weight: 600;
+}
+
+.estrella {
+  align-self: flex-start;
+  padding: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #e0a800;
+  text-decoration: none;
+}

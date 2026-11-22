@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Lucía Martín", "telefono": "600 111 222", "email": "lucia.martin@correo.es", "grupo": "Clase", "favorito": true },
+  { "id": 2, "nombre": "Mario Gómez", "telefono": "600 222 333", "email": "mario.gomez@correo.es", "grupo": "Clase", "favorito": false },
+  { "id": 3, "nombre": "Ana Torres", "telefono": "600 333 444", "email": "ana.torres@correo.es", "grupo": "Familia", "favorito": false },
+  { "id": 4, "nombre": "Pablo Ruiz", "telefono": "600 444 555", "email": "pablo.ruiz@correo.es", "grupo": "Trabajo", "favorito": false },
+  { "id": 5, "nombre": "Marta Sánchez", "telefono": "600 555 666", "email": "marta.sanchez@correo.es", "grupo": "Familia", "favorito": false },
+  { "id": 6, "nombre": "Hugo Navarro", "telefono": "600 666 777", "email": "hugo.navarro@correo.es", "grupo": "Clase", "favorito": true },
+  { "id": 7, "nombre": "Sara López", "telefono": "600 777 888", "email": "sara.lopez@correo.es", "grupo": "Trabajo", "favorito": false },
+  { "id": 8, "nombre": "Diego Romero", "telefono": "600 888 999", "email": "diego.romero@correo.es", "grupo": "Clase", "favorito": false }
+]
